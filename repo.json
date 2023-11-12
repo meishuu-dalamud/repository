@@ -1,0 +1,17 @@
+[
+  {
+    "Author": "Meishu",
+    "Name": "Submissive and Mersible",
+    "InternalName": "SubmissiveAndMersible",
+    "AssemblyVersion": "1.0.0.0",
+    "Punchline": "Automatically handles repairing and redeploying submersibles.",
+    "Description": "Adds a command that will go through each submersible and finalize the voyage, repair all components, and redeploy. This has minimal error handling, so make sure you have enough free inventory slots and stock up on ceruleum tanks and repair materials.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 9,
+    "RepoUrl": "https://github.com/meishuu-dalamud/SubmissiveAndMersible",
+    "DownloadLinkInstall": "https://github.com/meishuu-dalamud/SubmissiveAndMersible/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/meishuu-dalamud/SubmissiveAndMersible/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/meishuu-dalamud/SubmissiveAndMersible/releases/latest/download/latest.zip",
+    "LastUpdated": 1699789178
+  }
+]
